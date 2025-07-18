@@ -148,4 +148,12 @@ This notebook demonstrates:
 4. GitHub will render the README beautifully with emojis, tables, code blocks, and structure!
 
 Let me know if you want to auto-generate visuals (like a plot or heatmap) and embed them into the README using image links.
+## 📊 Exploratory Data Analysis Visuals
+
+**Correlation Heatmap**  
+![Correlation Heatmap](correlation_heatmap.png)
+
+**Price Distribution**  
+![Price Distribution](price_distribution.png)
+
 
