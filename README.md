@@ -1,4 +1,4 @@
-weirunveirnv## House-pricepridiction-EDA
+eirunveirnv## House-pricepridiction-EDA
 # 🏠 House Price Prediction Project
 
 Welcome to the **House Price Prediction** project! This repository showcases how to use machine learning models to predict house prices based on various features of a house. The analysis leverages Python's powerful data-science libraries and several machine learning algorithms.
